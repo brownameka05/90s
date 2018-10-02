@@ -1,0 +1,23 @@
+
+.center {
+  margin-left:auto;
+  margin-right: auto;
+  width: 460px;
+}
+
+
+
+
+.menu {
+  background-color:#dfe6e9;
+  color:white;
+  padding:10px;
+  font-size:50px;
+}
+
+.para {
+  background-color:#dfe6e9;
+  color:#00cec9;
+  padding:10px;
+  font-size:30px;
+}
